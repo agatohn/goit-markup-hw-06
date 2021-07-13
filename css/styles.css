@@ -562,6 +562,33 @@ body {
   height: 20px;
 }
 
+.mailing {
+  font-weight: bold;
+  line-height: 1.21;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin-top: 12px;
+  margin-left: 93px;
+}
+
+.mailing-text {
+  margin-bottom: 20px;
+}
+
+.mailing-btn {
+
+  /* align-items: baseline; */
+}
+
+
+
+.mailing-logo {
+  width: 24px;
+  height: 24px;
+  margin-left: 10px;
+  fill: #ffffff;
+}
+
 /* portfolio section */
 
 .btn-alt {
@@ -683,7 +710,6 @@ body {
   background-color: rgba(0, 0, 0, 0.2);
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 1000ms;
-  
 }
 
 .modal {
